@@ -1,0 +1,6 @@
+[submodule "experiment-blog/themes/ananke"]
+	path = experiment-blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "experiment-blog/themes/paper"]
+	path = experiment-blog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
